@@ -17,3 +17,34 @@
 .banner_logo1{
     margin-left: 634px;
 }
+
+.nav-link {
+    color: #585858;
+    padding: 18px 25px;
+    display: block;
+    transition: background .4s;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a:hover.nav-link {
+    /*background: #00a3de;*/
+    color: #00a3de;
+    font-weight: bold;
+}
+
+.navbar-nav li:not(:last-child) {
+    border-right: 1px solid #585858;
+}
+
+.hide {
+    display: none;
+}
+
+a {
+    font-family: ITC-regular;
+}
+
+.bdb {
+    border-bottom: 1px solid black;
+}
