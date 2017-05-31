@@ -78,6 +78,44 @@ a {
     border-bottom: 1px solid black;
 }
 
+.eztablogo{
+    margin-left: 45%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.suredose-logo{
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.tasterite-logo{
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.tftech-logo{
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.zinc-plus-logo{
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.eztab-title-content{
+    color: #696969;
+    font-size: 18px;
+    font-family: AvantGarde Md BT;
+    text-align: center;
+    margin-top: -56px;
+}
+
 .footer {
     background-color: #0aa7df;
     padding: 32px 0 40px;

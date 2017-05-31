@@ -19,3 +19,11 @@ Route::get('/', function () {
 Route::get('/about', function (){
     return view('pages.aboutus');
 });
+
+Route::get('/tech', function (){
+    return view('pages.technologies');
+});
+
+Route::get('/org', function (){
+    return view('pages.organization');
+});
