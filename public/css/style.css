@@ -48,3 +48,26 @@ a {
 .bdb {
     border-bottom: 1px solid black;
 }
+
+.footer {
+    background-color: #0aa7df;
+    padding: 32px 0 40px;
+    color: #fff;
+    height: auto;
+}
+
+.footer .copyright-text {
+    font-size: 13px;
+}
+
+h3 {
+    font-family: 'itc-bold';
+}
+
+.right-content {
+    padding: 28px;
+}
+
+.fp-tableCell {
+    vertical-align: top !important;
+}

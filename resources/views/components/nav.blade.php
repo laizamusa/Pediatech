@@ -1,27 +1,30 @@
-<nav class="navbar" id="nav_bar">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/"><img style="height: 80px; margin-left: 120px;"  src="/img/logo.png"></a>
-        </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">About Us</a></li>
-                <li><a href="/">Products</a></li>
-                <li><a href="/">Technologies</a></li>
-                <li><a href="/">Our Organization</a></li>
-                <li><a href="/">Contact</a></li>
+<div class="container bdb">
+    <nav class="navbar navbar-toggleable-md">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#"><img style="height: 80px; /*margin-left: 120px;*/"  src="/img/logo.png"></a>
+        <div class="collapse navbar-collapse row" id="navbarCollapse">
+            <ul class="navbar-nav col-4">
             </ul>
-        </div><!-- /.navbar-collapse -->
-
-    </div><!-- /.container-fluid -->
-</nav>
-
+            <ul class="navbar-nav col-8 text-center">
+                <li class="nav-item active col-3">
+                    <a class="nav-link" href="#">About Us</a>
+                </li>
+                <li class="nav-item hide">
+                    <a class="nav-link" href="#">Products</a>
+                </li>
+                <li class="nav-item col-3">
+                    <a class="nav-link" href="#">Technologies</a>
+                </li>
+                <li class="nav-item col-3">
+                    <a class="nav-link" href="#">Our Organization</a>
+                </li>
+                <li class="nav-item col-3">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
