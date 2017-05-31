@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden !important;
+}
+
 .banner_bg{
     position: relative;
     z-index: 0;
@@ -16,7 +20,31 @@
     height: 547px;
 }
 .banner_logo1{
-    margin-left: 634px;
+    margin-left: -1px;
+}
+
+.banner_content{
+    margin-left: 183px;
+    margin-top: 210px;
+}
+
+.banner_img{
+    width: 121%;
+    margin-left: -39%;
+    margin-top: -46px;
+}
+
+.banner1_content{
+    font-family: AvantGarde Md BT;
+    color: #00a3de;
+    font-size: 2.5rem;
+    margin-left: 99px;
+    margin-top: 61px;
+    margin-left: 56px;
+}
+
+.content{
+    margin-left: 60px;
 }
 
 .nav-link {
