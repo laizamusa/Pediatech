@@ -138,3 +138,7 @@ h3 {
 .fp-tableCell {
     vertical-align: top !important;
 }
+
+.form-control{
+    width: 60%;
+}
