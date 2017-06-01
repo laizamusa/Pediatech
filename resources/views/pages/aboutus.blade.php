@@ -1,8 +1,8 @@
 @extends('layouts.master')
 
 @section('content')
-<div id="fullpage">
-    <div class="section " id="section0">
+{{--<div id="fullpage">--}}
+    {{--<div class="section " id="section0">--}}
     <div class="container bdb">
         <nav class="navbar navbar-toggleable-md">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,6 +51,6 @@
             </div>
         </div>
     </div>
-    </div>
-</div>
+    {{--</div>--}}
+{{--</div>--}}
 @endsection

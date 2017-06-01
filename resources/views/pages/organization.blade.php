@@ -13,10 +13,10 @@
                     </ul>
                     <ul class="navbar-nav col-8 text-center">
                         <li class="nav-item active col-3">
-                            <a class="nav-link" href="#">About Us</a>
+                            <a class="nav-link" href="/about">About Us</a>
                         </li>
                         <li class="nav-item col-3">
-                            <a class="nav-link" href="#">Technologies</a>
+                            <a class="nav-link" href="/tech">Technologies</a>
                         </li>
                         <li class="nav-item col-3">
                             <a class="nav-link" href="/org">Our Organization</a>
