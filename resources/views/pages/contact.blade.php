@@ -73,7 +73,6 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="wpcf7-response-output wpcf7-display-none"></div>
                     </form>
                 </div>
                 <p></p>
@@ -81,3 +80,5 @@
         </div>
 
     </div>
+
+    @endsection

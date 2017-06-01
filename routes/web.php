@@ -27,7 +27,3 @@ Route::get('/tech', function (){
 Route::get('/org', function (){
     return view('pages.organization');
 });
-
-Route::get('/contact', function (){
-    return view('pages.contact');
-});

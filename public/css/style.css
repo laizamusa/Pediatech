@@ -39,14 +39,12 @@ body{
     color: #00a3de;
     font-size: 2.5rem;
     margin-left: 99px;
-    margin-top: 83px;
+    margin-top: 61px;
     margin-left: 56px;
 }
 
 .content{
     margin-left: 60px;
-    margin-top: 23px;
-    font-size: 16px;
 }
 
 .nav-link {
@@ -77,32 +75,23 @@ a {
 }
 
 .bdb {
-    border-bottom: 1px solid #acacac;
-    width: 100%;
-}
-
-.lmorebtn{
-    background-color: white;
-    color: #00a3de;
-    border-color: #00a3de;
-    margin-left: -422px;
-    margin-top: 100px;
+    border-bottom: 1px solid black;
 }
 
 .eztablogo{
-    margin-left: 41%;
+    margin-left: 45%;
     height: 50px;
     margin-top: 80px;
 }
 
 .suredose-logo{
-    margin-left: 36%;
+    margin-left: 39%;
     height: 50px;
     margin-top: 80px;
 }
 
 .tasterite-logo{
-    margin-left: 36%;
+    margin-left: 39%;
     height: 50px;
     margin-top: 80px;
 }
@@ -114,7 +103,7 @@ a {
 }
 
 .zinc-plus-logo{
-    margin-left: 38%;
+    margin-left: 39%;
     height: 50px;
     margin-top: 80px;
 }
