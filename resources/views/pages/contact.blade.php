@@ -30,35 +30,48 @@
         </div>
 
         <div class="intro">
-            <div class="row">
-                <div style="margin-top: 100px;">
-                    <h1 style="margin-left: 47%; color:#696969; font-size: 53px; font-family: AvantGarde Md BT;"><b>SEND US A MESSAGE</b></h1>
-                    <p style="margin-left: 60%; color:#696969; font-size: 18px;">We want to hear from you.</p>
-                </div>
-                <div role="form" class="wpcf7" id="wpcf7-f4-p39-o1" dir="ltr" lang="en-US">
-                    <div class="screen-reader-response"></div>
+            <div class="col-xs-12">
+                <h1 style="text-align: center;">SEND US A MESSAGE</h1>
+                <p style="text-align: center;">We want to hear from you.</p>
                     <form>
-                        <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleInputPassword1">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleInputFile">File input</label>
-                            <input type="file" id="exampleInputFile">
-                            <p class="help-block">Example block-level help text here.</p>
-                        </div>
-                        <div class="checkbox">
-                            <label>
-                                <input type="checkbox"> Check me out
-                            </label>
-                        </div>
-                        <button type="submit" class="btn btn-default">Submit</button>
+                            <div class="form-group">
+                                <div class="col-xs-6">
+                                    <span >
+                                        <input name="your-name" class="form-control" placeholder="Your Name" type="text">
+                                    </span>
+                                </div>
+                                <div class="col-xs-6">
+                                    <span class="">
+                                        <input name="your-email" class="form-control" placeholder="Email Address" type="email">
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <span class="your-message">
+                                    <textarea name="your-message" class="form-control" placeholder="Your Message"></textarea>
+                                </span>
+                            </div>
+                            <div class="col-xs-6 ">
+                                <span class="your-subject">
+                                    <input name="your-subject"  class="form-control" placeholder="Subject" type="text"></span>
+                            </div>
+                            <div class="col-xs-6 form-captcha">
+                                <label>Please type in the code:</label><br>
+                                <input name="your-captcha" value="3594274354" type="hidden">
+                                <img class="img-responsive form-control" alt="captcha" src="http://beta.pediatech.info/wp-content/uploads/wpcf7_captcha/3594274354.png">
+                                <span class="your-captcha">
+                                    <input name="your-captcha"class="form-control captchar form-control" type="text">
+                                </span>
+                            </div>
+                            <div class="col-xs-6">
+                                <input value="Send Your Message" class="form-control submit form-control" type="submit">
+                                <span class="ajax-loader">
+
+                                </span>
+                            </div>
                     </form>
-                    </div>
+                </div>
+                <p></p>
             </div>
         </div>
 
