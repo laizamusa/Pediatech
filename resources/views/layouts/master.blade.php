@@ -10,6 +10,7 @@
     <link href="{{ asset('css/fonts.css') }}" rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link href="{{ asset('fullpage/css/jquery.fullPage.css') }}" rel="stylesheet">
+    {{--<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">--}}
 </head>
 <body>
 
@@ -24,6 +25,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
     <script type="text/javascript" src="{{ asset('fullpage/vendors/scrolloverflow.js') }}"></script>
     <script type="text/javascript" src="{{ asset('fullpage/js/jquery.fullPage.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/carousel/jquery.cloud9carousel.js') }}"></script>
 
 
     <script type="text/javascript">
