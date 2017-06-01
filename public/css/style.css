@@ -5912,31 +5912,3 @@ button.close {
         display:none!important
     }
 }
-
-/* Carousel */
-.noselect {
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-#wrap {
-    /* fixed width, centered in viewport */
-    /* width: 980px; */
-    /* left: -490px; */
-    /* margin-left: 50%; */
-    /* position: relative; */
-}
-#showcase {
-    width: 100%;
-    height: 460px;
-    margin-top: 12px;
-    visibility: hidden;
-}
-#showcase img {
-    cursor: pointer;
-}
-/* End Carousel */
