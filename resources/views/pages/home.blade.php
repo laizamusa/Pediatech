@@ -1,8 +1,8 @@
 @extends('layouts.master')
 
 @section('content')
-    @include('components.nav')
 
+    @include('components.nav')
         <div class="intro">
             <div class="row">
                 {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}

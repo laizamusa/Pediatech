@@ -32,7 +32,7 @@
             </div>
 
             <div class="intro">
-                <div class="row">
+                <div class="row" id="eztab">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <img class="eztablogo" src="/img/eztab-logo.png">
                         <div style="margin-left: 213px; margin-top: 100px;">
@@ -52,7 +52,7 @@
                         </p>
                 </div>
 
-                <div class="row">
+                <div class="row" id="suredose">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <img class="suredose-logo" src="/img/soredose-logo.png">
                         <div style="margin-left: 213px; margin-top: 100px;">
@@ -77,7 +77,7 @@
                     </p>
                 </div>
 
-                <div class="row">
+                <div class="row" id="tasterite">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <img class="tasterite-logo" src="/img/tasterite-logo.png">
                     <div style="margin-left: 213px; margin-top: 100px;">
@@ -117,7 +117,7 @@
                     </p>
                 </div>
 
-                <div class="row">
+                <div class="row" id="toothfriendly">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <img class="tftech-logo" src="/img/tftech.png">
                     <div style="margin-left: 213px; margin-top: 100px;">
@@ -137,7 +137,7 @@
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row" id="zincplus">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <img class="zinc-plus-logo" src="/img/zinc-plus-logo.png">
                     <div style="margin-left: 213px; margin-top: 100px;">
