@@ -7,7 +7,7 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img style="height: 80px; /*margin-left: 120px;*/"  src="/img/logo.png"></a>
+                <a class="navbar-brand" href="/"><img style="height: 80px; /*margin-left: 120px;*/ margin-left: 133px;"  src="/img/logo.png"></a>
                 <div class="collapse navbar-collapse row" id="navbarCollapse">
                     <ul class="navbar-nav col-4">
                     </ul>
@@ -22,11 +22,10 @@
                             <a class="nav-link" href="/org">Our Organization</a>
                         </li>
                         <li class="nav-item col-3">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="/contact">Contact</a>
                         </li>
                     </ul>
                 </div>
             </nav>
         </div>
     </div>
- @endsection
