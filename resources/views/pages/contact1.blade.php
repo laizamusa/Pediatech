@@ -35,8 +35,7 @@
                 <p style="text-align: center;">We want to hear from you.</p>
                 <p>&nbsp;</p>
                 <p style="text-align: center;"></p>
-                <form id="contact_form" method="post" style="margin-top: -122px;">
-                    {{ csrf_field() }}
+                <form action="" method="post" style="margin-top: -122px;">
                     <div class="row col-md-12" style="margin-top: 85px;">
                         <div class="col-md-6">
                             <span>
@@ -49,7 +48,7 @@
                                 <input style="margin-top: 35px; height: 77px; width: 500px; margin-left: 60px;" name="your-subject"  class="form-control" placeholder="Subject" type="text">
                             </span>
                             {{--<input style="margin-top: 35px; background-color: #00a3de; color: white; margin-left: 60px; height: 77px; width: 500px;" value="Send Your Message" class="form-control submit form-control" type="submit">--}}
-                            <button id="mSend" style="margin-top: 35px; margin-left: 60px; height: 77px; width: 500px;" type="button" class="btn btn-primary btn-lg lmorebtn">Send Your Message</button>
+                            <button style="margin-top: 35px; margin-left: 60px; height: 77px; width: 500px;" type="button" class="btn btn-primary btn-lg lmorebtn">Send Your Message</button>
                         </div>
                         <div class="col-md-6 form-captcha" style="margin-top: 31px;">
                              <span class="your-message">
@@ -74,23 +73,4 @@
             <p></p>
         </div>
     </div>
-@endsection
-
-@section('scripts')
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.1/jquery.form.min.js" integrity="sha384-tIwI8+qJdZBtYYCKwRkjxBGQVZS3gGozr3CtI+5JF/oL1JmPEHzCEnIKbDbLTCer" crossorigin="anonymous"></script>
-    <script>
-        $('#mSend').on('click', function (e) {
-            e.preventDefault();
-            $('#contact_form').ajaxSubmit({
-                type : 'post',
-                url : '/mailsender',
-                beforeSubmit: function(){
-
-                },
-                success:  function(data){
-                    console.log(data);
-                }
-            })
-        });
-    </script>
 @endsection

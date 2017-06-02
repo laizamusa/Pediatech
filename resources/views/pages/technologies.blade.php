@@ -54,7 +54,7 @@
 
                 <div class="row" id="suredose">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
-                    <img class="suredose-logo" src="/img/soredose-logo.png">
+                    <img class="suredose-logo" src="/img/suredose-logo.png">
                         <div style="margin-left: 213px; margin-top: 100px;">
                             <h1 class="eztab-title-content"><b>The Problem with Suspensions</b></h1>
                             <p style="text-align: center; color:#696969; font-size: 18px;">Pediatric medicines in suspension format need to be shaken to ensure uniform drug distribution. A good suspension </br> should (a) be easily redispersed from shaking, (b) remain suspended long enough to administer the dose, and (c) have </br> the desired flow properties.</p>
