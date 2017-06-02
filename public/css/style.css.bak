@@ -1,0 +1,151 @@
+body{
+    overflow-x: hidden !important;
+}
+
+.banner_bg{
+    position: relative;
+    z-index: 0;
+    margin-top: -2px;
+    /*height: 559px;*/
+    width: 1346px;
+    margin-left: 412px;
+}
+.banner_logo{
+    margin-left: 587px;
+    margin-top: 126px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    height: 547px;
+}
+.banner_logo1{
+    margin-left: -1px;
+}
+
+.banner_content{
+    margin-left: 183px;
+    margin-top: 210px;
+}
+
+.banner_img{
+    width: 121%;
+    margin-left: -39%;
+    margin-top: -46px;
+}
+
+.banner1_content{
+    font-family: AvantGarde Md BT;
+    color: #00a3de;
+    font-size: 2.5rem;
+    margin-left: 99px;
+    margin-top: 83px;
+    margin-left: 56px;
+}
+
+.content{
+    margin-left: 60px;
+    margin-top: 23px;
+    font-size: 16px;
+}
+
+.nav-link {
+    color: #585858;
+    padding: 18px 25px;
+    display: block;
+    transition: background .4s;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a:hover.nav-link {
+    /*background: #00a3de;*/
+    color: #00a3de;
+    font-weight: bold;
+}
+
+.navbar-nav li:not(:last-child) {
+    border-right: 1px solid #585858;
+}
+
+.hide {
+    display: none;
+}
+
+a {
+    font-family: ITC-regular;
+}
+
+.bdb {
+    border-bottom: 1px solid #acacac;
+    width: 100%;
+}
+
+.lmorebtn{
+    background-color: white;
+    color: #00a3de;
+    border-color: #00a3de;
+    margin-left: -422px;
+    margin-top: 100px;
+}
+
+.eztablogo{
+    margin-left: 41%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.suredose-logo{
+    margin-left: 36%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.tasterite-logo{
+    margin-left: 36%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.tftech-logo{
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.zinc-plus-logo{
+    margin-left: 38%;
+    height: 50px;
+    margin-top: 80px;
+}
+
+.eztab-title-content{
+    color: #696969;
+    font-size: 18px;
+    font-family: AvantGarde Md BT;
+    text-align: center;
+    margin-top: -56px;
+}
+
+.footer {
+    background-color: #0aa7df;
+    padding: 32px 0 40px;
+    color: #fff;
+    height: auto;
+}
+
+.footer .copyright-text {
+    font-size: 13px;
+}
+
+h3 {
+    font-family: 'itc-bold';
+}
+
+.right-content {
+    padding: 28px;
+}
+
+.fp-tableCell {
+    vertical-align: top !important;
+}
