@@ -18,8 +18,16 @@
                         <li class="nav-item active col-3">
                             <a class="nav-link" href="/about">About Us</a>
                         </li>
-                        <li class="nav-item col-3">
-                            <a class="nav-link" href="/tech">Technologies</a>
+                        <li class="nav-item col-3 dropdown">
+                        <a class="nav-link dropdown" data-toggle="dropdown"  href="/tech">Technologies</a>
+                            <ul class="dropdown-menu dropdown" data-hover="dropdown" >
+                                <li><a class="nav-link" href="/tech/#eztab">EZTab</a></li>
+                                <li><a class="nav-link" href="/tech/#suredose">SureDose</a></li>
+                                <li><a class="nav-link" href="/tech/#tasterite">TasteRite</a></li>
+                                <li><a class="nav-link" href="/tech/#toothfriendly">ToothFriendly</a></li>
+                                <li><a class="nav-link" href="/tech/#zincplus">ZincPlus</a></li>
+                            </ul>
+                            {{--<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/tech">Technologies</a>--}}
                         </li>
                         <li class="nav-item col-3">
                             <a class="nav-link" href="/org">Our Organization</a>
