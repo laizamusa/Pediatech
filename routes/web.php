@@ -31,3 +31,5 @@ Route::get('/org', function (){
 Route::get('/contact', function (){
     return view('pages.contact');
 });
+
+Route::post('/mailsender', 'MailController@mailer');
