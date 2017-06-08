@@ -1,4 +1,4 @@
-@media screen and (min-width:320px) and (max-width: 480px){
+@media screen and (min-width:940px) and (max-width: 1024px){
     .navbar-nav li:not(:last-child){
         border-right: none;
     }
@@ -8,12 +8,12 @@
     }
 
     .navbarimg{
-         margin-left: 1px;
+        margin-left: 1px;
     }
 
     .banner_content {
-        margin-left: 144px;
-        margin-top: 187px;
+        margin-left: 183px;
+        margin-top: 210px;
     }
 
     .homepage_banner_content1{
@@ -43,80 +43,78 @@
     }
 
     .banner_img {
-        width: 155%;
-        margin-left: -15%;
+        width: 100%;
+        margin-left: 0;
         margin-top: 21px;
     }
 
     .banner1_content {
         font-size: 31px;
-        margin-left: 13px;
+        /*margin-left: 13px;*/
+        font-family: 'AvantGarde Md BT';
+        color: #00a3de;
+        /*font-size: 2.5rem;*/
+        /*margin-left: 99px;*/
+        /*margin-top: 83px;*/
+        /*margin-left: 56px;*/
+        /*font-size: 56px;*/
+
     }
 
     .content {
         margin-left: 0px;
         margin-top: 23px;
         font-size: 16px;
-        text-align: center;
+        text-align: left;
     }
 
     .banner_logo1 {
-        margin-left: -1px;
-        width: 304px;
-    }
-
-    /*start about us*/
-    .bg_ttubes {
-        height: 192px;
-        margin-left: -118px;
+        margin-left: 0px;
+        width: 100%;
+        min-height: 100%;
     }
 
     .pediatech_content1{
         font-size: 51px;
         font-family: AvantGarde Md BT;
-        /*margin-left: -91px;*/
+        margin-left: 0;
         text-align: center;
         margin-top: 96px;
+    }
+
+    .pediatech_content{
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 100px;
+        color:#696969;
     }
 
     .pediatech_content2 {
         font-size: 18px;
         text-align: center;
-        /*margin-left: -88px;*/
-        padding: 0 20px;
+        margin-left: 0;
+        padding: 0 40px;
     }
 
     .products_content{
-        margin-top: 741px;
         color: #696969;
         text-align: center;
+        margin-top: 231px;
     }
 
-    /*.products_content1{*/
-        /*font-size: 51px;*/
-        /*font-family: AvantGarde Md BT;*/
-        /*text-align: center;*/
-        /*margin-top: -153px;*/
-        /*margin-left: -53px;*/
-    /*}*/
-
-    .products_content1 {
+    .products_content1{
         font-size: 51px;
         font-family: AvantGarde Md BT;
         text-align: center;
-        margin-top: -698px;
-        padding: 0 84px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
     }
 
-    /*.products_content2{*/
-        /*margin-top: -259px;*/
-        /*margin-left: -106px;*/
-    /*}*/
-
-    .products_content2 {
-        font-size: 18px;
-        margin-top: -609px;
-        padding: 0 34px;
+    .products_content2{
+        margin-top: 0px;
+        margin-left: 0px;
+        padding: 0 50px;
     }
     /*end about us*/
 
@@ -124,7 +122,7 @@
 
     /*Start EZTabs*/
     .eztablogo {
-        margin-left: 23%;
+        /*margin-left: 23%;*/
         height: 39px;
         margin-top: 80px;
     }
@@ -136,6 +134,11 @@
         text-align: center;
         /*margin-top: -56px;*/
         /*margin-left: -205px;*/
+    }
+
+    .eztab-content {
+        /*margin-left: 213px;*/
+        margin-top: 100px;
     }
 
 
@@ -161,7 +164,7 @@
 
     /*Satrt Suredose*/
     .suredose-logo {
-        margin-left: 10%;
+        /*margin-left: 10%;*/
         height: 35px;
         margin-top: 80px;
     }
@@ -201,7 +204,7 @@
     }
 
     .suredosetech2{
-        /*margin-left: 22px;*/
+        margin-left: 22px;
         text-align: center;
         color: #696969;
         font-size: 16px;
@@ -210,7 +213,7 @@
 
     /*Start TasteRite*/
     .tasterite-logo {
-        margin-left: 9%;
+        /*margin-left: 9%;*/
         height: 35px;
         margin-top: 80px;
     }
@@ -219,6 +222,7 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
+        padding: 0 100px;
         /*margin-left: -215px;*/
     }
 
@@ -226,6 +230,7 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
+        padding: 0 100px;
         /*margin-left: -205px;*/
     }
 
@@ -233,6 +238,7 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
+        padding: 0 100px;
         /*margin-left: -198px;*/
     }
 
@@ -240,6 +246,7 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
+        padding: 0 100px;
         /*margin-left: -206px;*/
     }
 
@@ -251,7 +258,7 @@
     }
 
     .taste_img{
-        height: 257px;
+        height: 561px;
         margin-left: -5%;
     }
 
@@ -259,13 +266,13 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
-        /*margin-left: -10px*/
+        margin-left: -10px
     }
     /*End TasteRite*/
 
     /*Start TFTech*/
     .tftech-logo {
-        margin-left: 9%;
+        /*margin-left: 9%;*/
         height: 45px;
         margin-top: 80px;
     }
@@ -281,7 +288,7 @@
 
     /*Start Zinc Plus*/
     .zinc-plus-logo {
-        margin-left: 12%;
+        /*margin-left: 12%;*/
         height: 37px;
         margin-top: 80px;
     }
@@ -290,7 +297,7 @@
         text-align: center;
         color: #696969;
         font-size: 16px;
-        /*margin-left: -211px;*/
+        margin-left: -211px;
     }
 
     .zincplus_vid{
@@ -305,14 +312,8 @@
     }
 
     #zincplus_img{
-        /*height: 257px;*/
-        /*margin-left: -5%;*/
-        height: 242px;
-        margin-left: -33%;
-    }
-
-    #zincplus2_img{
-        height: 242px;
+        height: 561px;
+        margin-left: -5%;
     }
 
     .zincplus_title_content{
@@ -320,17 +321,17 @@
         font-size: 15px;
         font-family: AvantGarde Md BT;
         text-align: center;
-        /*margin-top: -56px;*/
-        /*margin-left: -439px;*/
+        margin-top: -56px;
+        margin-left: -439px;
     }
 
     #zincplus_tech{
-        /*margin-left: 3px;*/
+        margin-left: 3px;
         margin-top: 100px;
     }
 
     #zpt{
-        /*margin-left: -45px;*/
+        margin-left: -45px;
     }
 
     .zincrw {
@@ -339,52 +340,76 @@
         color: #696969;
         font-size: 16px;
     }
-    /*End Zinc Plus*/
 
+    .bg_ttubes {
+        /* height: 192px; */
+        margin-left: -118px;
+    }
 
-    /*End Technologies*/
+    .pd100{
+        padding: 0 100px;
+    }
 
-    /*contacts*/
-
-    .smessage{
+    .eztablogo {
+        /*margin-left: 41%;*/
+        height: 50px;
+        margin-top: 80px;
         text-align: center;
-        color: #585858;
     }
 
-    .smcontents{
-        padding: 0 42px;
-    }
-
-    #contact_form{
-        margin-top: -122px;
+    .zincplus_img{
+        height: 561px;
+        /*margin-left: 22%;*/
     }
 
     .form-inputs {
         margin-top: 35px;
         height: 77px;
-        width: 270px;
+        width: 100%;
+        /*margin-left: 60px;*/;
     }
 
-    #msend {
-        margin-top: 35px;
-        /* margin-left: 60px; */
-        margin-left: 25px;
-        height: 77px;
-        width: 270px;
+    .form-div {
+        padding: 0 10px
+    }
+
+    .contactview{
+        padding: 0 100px;
+    }
+
+    .form-textextra{
+        height: 188px;
+        width: 293px;
+        margin-left: 120px;
     }
 
     .form-textarea{
-        height: 188px;
-        width: 270px;
-        /* margin-left: 51px; */
+        height: 190px;
+        margin-top: 3px;
+        width: 100%;
+        margin-left: 51px;
     }
 
     .captchar{
-        width: 128px;
+        width: 104px;
         height: 50px;
-        margin-left: 52px;
-        margin-top: 10px;
+        margin-left: 83px;
     }
-    /*contacts*/
 
+    #mSend{
+        margin-top: 35px;
+        margin-left: 11px;
+        height: 77px;
+        width: 335px;
+    }
+
+    .smessage{
+        margin-left: 22%;
+    }
+
+    .smcontents{
+        padding: 0 100px;
+        text-align: center;
+        margin-left: 24%;
+    }
 }

@@ -12,11 +12,13 @@
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link href="{{ asset('css/320-480.css') }}" rel="stylesheet">
     <link href="{{ asset('css/480-800.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/940-1024.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/1220-1582.css') }}" rel="stylesheet">
     <link href="{{ asset('carousel/carousel.css') }}" rel="stylesheet">
     <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
     <link href="{{ asset('fullpage/css/jquery.fullPage.css') }}" rel="stylesheet">
-    <link href="navbar.css" rel="stylesheet">
-    <link href="{{ asset('assets/css/ie10-viewport-bug-workaround.css') }}" rel="stylesheet">
+    {{--<link href="navbar.css" rel="stylesheet">--}}
+{{--    <link href="{{ asset('assets/css/ie10-viewport-bug-workaround.css') }}" rel="stylesheet">--}}
 </head>
 <body>
 
@@ -38,8 +40,10 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#fullpage').fullpage({
-                scrollBar: true
+                scrollBar: true,
             });
+            $.fn.fullpage.setAutoScrolling(false);
+            $.fn.fullpage.setFitToSection(false);
         });
 
         $('ul.nav li.dropdown').hover(function() {

@@ -2,8 +2,8 @@
 
 @section('content')
 
-    {{--<div id="fullpage">--}}
-        <div class="section " id="section">
+    <div id="fullpage">
+        <div class="section" id="section">
         @include('components.nav')
             <div class="intro">
                 <div class="row">
@@ -28,7 +28,7 @@
         <div class="section" id="section1">
             <div class="intro">
                 <div class="row">
-                    <div class="col-md-6 container-fluid">
+                    <div class="col-md-6" style="padding: 46px;">
                         <div class="col-md">
                             <h1 class="banner1_content"><b>WHAT DO WE DO?</b></h1>
                         </div>
@@ -36,13 +36,13 @@
                         <div class="col-md content">
                             <label style="color:#8d8b8b; font-size: 20px;"><b>Address Children’s Needs</b></label>
                             {{--<h4 style="color:#8d8b8b;font-size:3vh;line-height: 8vh;" class="AVENIR.TTC;"><b>Address Children’s Needs</b></h4>--}}
-                            <p style="color:#aeaeae;">Our formulations aim to address gaps in pediatric medications to <br/> improve children’s compliance and ease of administration.</p>
+                            <p style="color:#aeaeae;">Our formulations aim to address gaps in pediatric medications to improve children’s compliance and ease of administration.</p>
 
                             <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Improve products</b></label>
-                            <p style="color:#aeaeae;">Using various technologies that we’ve developed, our products<br/> improve on existing formulations in order to cater to children’s specific <br/>needs such as taste and simpler dosing formats.</p>
+                            <p style="color:#aeaeae;">Using various technologies that we’ve developed, our products improve on existing formulations in order to cater to children’s specific needs such as taste and simpler dosing formats.</p>
 
                             <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Easier for Everyone</b></label>
-                            <p style="color:#aeaeae;">Our products aim to make the lives of children, parents and healthcare <br/>providers easier.</p>
+                            <p style="color:#aeaeae;">Our products aim to make the lives of children, parents and healthcare providers easier.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -54,24 +54,22 @@
             <div class="section" id="section2">
                 <div class="intro">
                     <div class="row" >
-                        <div class="">
-                            <div class="col-md content hidden-md-up">
-                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>EZTab</b></label>
-                                <img class="carousel-image" src="/img/eztab.png">
-                                <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
+                        <div class="col-md content hidden-md-up">
+                            <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>EZTab</b></label>
+                            <img class="carousel-image" src="/img/eztab.png">
+                            <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
 
-                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Suredose</b></label>
-                                <img class="carousel-image" src="/img/suredose.png">
-                                <p style="color:#aeaeae;">Most of the drugs in ready-to-use oral pharmaceutical suspensions exist as undissolved particles, requiring adequate shaking of the container to resuspend the drug uniformly before dosing.</p>
+                            <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Suredose</b></label>
+                            <img class="carousel-image" src="/img/suredose.png">
+                            <p style="color:#aeaeae;">Most of the drugs in ready-to-use oral pharmaceutical suspensions exist as undissolved particles, requiring adequate shaking of the container to resuspend the drug uniformly before dosing.</p>
 
-                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>ZincPlus</b></label>
-                                <img class="carousel-image" src="/img/zincplus.png">
-                                <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
+                            <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>ZincPlus</b></label>
+                            <img class="carousel-image" src="/img/zincplus.png">
+                            <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
 
-                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Tasterite Kid</b></label>
-                                <img class="carousel-image" src="/img/tasterite-kid.png">
-                                <p style="color:#aeaeae;">The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.</p>
-                            </div>
+                            <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Tasterite Kid</b></label>
+                            <img class="carousel-image" src="/img/tasterite-kid.png">
+                            <p style="color:#aeaeae;">The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.</p>
                         </div>
 
                         <div id="showcase" class="noselect hidden-sm-down">
@@ -120,7 +118,7 @@
                  </div>
             </div>
         </div>
-    {{--</div>--}}
+    </div>
 
 @endsection
 
