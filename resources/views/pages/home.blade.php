@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div id="fullpage">
+    {{--<div id="fullpage">--}}
         <div class="section " id="section">
         @include('components.nav')
             <div class="intro">
@@ -10,9 +10,9 @@
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     <div class="col-md-6">
                         <div class="row banner_content">
-                            <font style="color:#00a3de; letter-spacing: 0px; font-size: 97px; margin-left: -126px; margin-top: -113px;" class="AvantGarde-Md-BT">PEDIATECH<sup style="font-size: 17px;">TM</sup></font>
-                            <font style="color:#ed3337; letter-spacing: 2px; margin-left: -118px;" class="AvantGarde-Md-BT"><b>INNOVATIVE SOLUTIONS IN CHILDCARE</b></font>
-                            <font style="color:#696969; font-size:19px; margin-left: -118px;" class="Avenir-Light">PediaTech aims to make pediatric medicines better</font>
+                            <font class="AvantGarde-Md-BT homepage_banner_content1">PEDIATECH<sup style="font-size: 17px; top: -3.5em;">TM</sup></font>
+                            <font class="AvantGarde-Md-BT homepage_banner_content2"><b>INNOVATIVE SOLUTIONS IN CHILDCARE</b></font>
+                            <font class="Avenir-Light homepage_banner_content3">PediaTech aims to make pediatric medicines better</font>
                             <button type="button" class="btn btn-primary btn-lg lmorebtn">LEARN MORE</button>
                             {{--<font style="font-size: 111px; margin-left: -145px; color:#00a3de; font-family: AvantGarde Md BT;"><b>PEDIATECH<sup>TM</sup></b></font>--}}
                             {{--<label style="margin-top: 125px; margin-left: -634px; color:#ed3337;">INNOVATIVE SOLUTIONS IN CHILDCARE</label>--}}
@@ -30,7 +30,7 @@
                 <div class="row">
                     <div class="col-md-6 container-fluid">
                         <div class="col-md">
-                            <h1 class="banner1_content" style="font-size: 56px;"><b>WHAT DO WE DO?</b></h1>
+                            <h1 class="banner1_content"><b>WHAT DO WE DO?</b></h1>
                         </div>
 
                         <div class="col-md content">
@@ -53,8 +53,28 @@
         </div>
             <div class="section" id="section2">
                 <div class="intro">
-                    <div class="row">
-                        <div id="showcase" class="noselect">
+                    <div class="row" >
+                        <div class="">
+                            <div class="col-md content hidden-md-up">
+                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>EZTab</b></label>
+                                <img class="carousel-image" src="/img/eztab.png">
+                                <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
+
+                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Suredose</b></label>
+                                <img class="carousel-image" src="/img/suredose.png">
+                                <p style="color:#aeaeae;">Most of the drugs in ready-to-use oral pharmaceutical suspensions exist as undissolved particles, requiring adequate shaking of the container to resuspend the drug uniformly before dosing.</p>
+
+                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>ZincPlus</b></label>
+                                <img class="carousel-image" src="/img/zincplus.png">
+                                <p style="color:#aeaeae;">Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.</p>
+
+                                <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>Tasterite Kid</b></label>
+                                <img class="carousel-image" src="/img/tasterite-kid.png">
+                                <p style="color:#aeaeae;">The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.</p>
+                            </div>
+                        </div>
+
+                        <div id="showcase" class="noselect hidden-sm-down">
                             <div class="card">
                                 <img class="carousel-image" src="/img/eztab.png">
                                 <h4 class="carousel-logos">
@@ -100,7 +120,7 @@
                  </div>
             </div>
         </div>
-    </div>
+    {{--</div>--}}
 
 @endsection
 

@@ -1,0 +1,326 @@
+@media screen and (min-width:320px) and (max-width: 480px){
+    .navbar-nav li:not(:last-child){
+        border-right: none;
+    }
+
+    .navbtn{
+        margin-top: 20px;
+    }
+
+    .navbarimg{
+         margin-left: 1px;
+    }
+
+    .banner_content {
+        margin-left: 144px;
+        margin-top: 187px;
+    }
+
+    .homepage_banner_content1{
+        color: #00a3de;
+        font-size: 49px;
+        margin-left: -126px;
+        margin-top: -104px;
+    }
+
+    .homepage_banner_content2{
+        color: #ed3337;
+        letter-spacing: 2px;
+        margin-left: -118px;
+        font-size: 17px;
+        margin-top: -6px;
+    }
+
+    .homepage_banner_content3{
+        color: #696969;
+        font-size: 16px;
+        margin-left: -118px;
+    }
+
+    .lmorebtn{
+        margin-left: -119px;
+        margin-top: 18px;
+    }
+
+    .banner_img {
+        width: 155%;
+        margin-left: -15%;
+        margin-top: 21px;
+    }
+
+    .banner1_content {
+        font-size: 31px;
+        margin-left: 13px;
+    }
+
+    .content {
+        margin-left: 0px;
+        margin-top: 23px;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .banner_logo1 {
+        margin-left: -1px;
+        width: 304px;
+    }
+
+    /*start about us*/
+    .bg_ttubes {
+        height: 192px;
+        margin-left: -118px;
+    }
+
+    .pediatech_content1{
+        font-size: 51px;
+        font-family: AvantGarde Md BT;
+        margin-left: -91px;
+        text-align: center;
+        margin-top: 96px;
+    }
+
+    .pediatech_content2 {
+        font-size: 18px;
+        text-align: center;
+        margin-left: -88px;
+    }
+
+    .products_content{
+        margin-top: 741px;
+        color: #696969;
+        text-align: center;
+    }
+
+    .products_content1{
+        font-size: 51px;
+        font-family: AvantGarde Md BT;
+        text-align: center;
+        margin-top: -153px;
+        margin-left: -53px;
+    }
+
+    .products_content2{
+        margin-top: -259px;
+        margin-left: -106px;
+    }
+    /*end about us*/
+
+    /*Start Technologies*/
+
+    /*Start EZTabs*/
+    .eztablogo {
+        margin-left: 23%;
+        height: 39px;
+        margin-top: 80px;
+    }
+
+    .eztab-title-content {
+        color: #696969;
+        font-size: 15px;
+        font-family: AvantGarde Md BT;
+        text-align: center;
+        margin-top: -56px;
+        margin-left: -205px;
+    }
+
+
+    .eztab-title-content1 {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -201px;
+    }
+
+    .eztech {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -208px;
+    }
+
+    .eztabvid{
+        width: 78%;
+        margin-left: 12%;
+    }
+    /*End EZTabs*/
+
+    /*Satrt Suredose*/
+    .suredose-logo {
+        margin-left: 10%;
+        height: 35px;
+        margin-top: 80px;
+    }
+
+
+    .suredosesus {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -209px;
+    }
+
+    .suredosesus1 {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -206px;
+    }
+
+    .suredosetech {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -207px;
+    }
+
+    .suredosetech1 {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -210px;
+    }
+
+    .suredosetech_img{
+        height: 257px;
+        margin-left: -5%;
+    }
+
+    .suredosetech2{
+        margin-left: 22px;
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+    }
+    /*End Suredose*/
+
+    /*Start TasteRite*/
+    .tasterite-logo {
+        margin-left: 9%;
+        height: 35px;
+        margin-top: 80px;
+    }
+
+    .tasterite_problem {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -215px;
+    }
+
+    .tasterite_problem1{
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -205px;
+    }
+
+    .tasterite_tech {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -198px;
+    }
+
+    .tasterite_tech1{
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -206px;
+    }
+
+    .tasterite_tech2{
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -206px;
+    }
+
+    .taste_img{
+        height: 257px;
+        margin-left: -5%;
+    }
+
+    .taste2{
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -10px
+    }
+    /*End TasteRite*/
+
+    /*Start TFTech*/
+    .tftech-logo {
+        margin-left: 9%;
+        height: 45px;
+        margin-top: 80px;
+    }
+
+
+    .tftech_content1 {
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -208px;
+    }
+    /*End TFTech*/
+
+    /*Start Zinc Plus*/
+    .zinc-plus-logo {
+        margin-left: 12%;
+        height: 37px;
+        margin-top: 80px;
+    }
+
+    .zincplus_content{
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+        margin-left: -211px;
+    }
+
+    .zincplus_vid{
+        width: 78%;
+        margin-left: 12%;
+
+    }
+    .zincplus_content1{
+        margin-left: 12px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    #zincplus_img{
+        height: 257px;
+        margin-left: -5%;
+    }
+
+    .zincplus_title_content{
+        color: #696969;
+        font-size: 15px;
+        font-family: AvantGarde Md BT;
+        text-align: center;
+        margin-top: -56px;
+        margin-left: -439px;
+    }
+
+    #zincplus_tech{
+        margin-left: 3px;
+        margin-top: 100px;
+    }
+
+    #zpt{
+        margin-left: -45px;
+    }
+
+    .zincrw {
+        margin-left: 7%;
+        text-align: center;
+        color: #696969;
+        font-size: 16px;
+    }
+    /*End Zinc Plus*/
+
+
+    /*End Technologies*/
+
+}
