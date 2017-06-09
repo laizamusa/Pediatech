@@ -3,7 +3,9 @@
 
     .nav{
         /*margin-left: 69%;*/
-        margin-left: 58%;
+        /*margin-left: 58%;*/
+        height: 44px;
+        margin-left: 53%;
         height: 44px;
     }
 
@@ -70,6 +72,7 @@
         margin-top: 210px;
     }
     .homepage_banner_content1{
+        font-family: "AvantGarde Md BT";
         color: #00a3de;
         letter-spacing: 0px;
         font-size: 97px;
@@ -78,10 +81,12 @@
     }
 
     .homepage_banner_content2{
+        font-family: "AvantGarde Md BT";
         color: #ed3337;
         letter-spacing: 2px;
         /*margin-left: -118px;*/
-        margin-left: -497px;
+        /*margin-left: -497px;*/
+        margin-left: -472px;
         margin-top: 21px;
         font-size: 18px;
 

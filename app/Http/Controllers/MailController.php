@@ -12,6 +12,6 @@ class MailController extends Controller
 
     public function mailer(Request $request)
     {
-        Mail::to('chabi050613@gmail.com')->send(new Pmailer($request->all()));
+        Mail::to('bianca.working@gmail.com')->send(new Pmailer($request->all()));
     }
 }
