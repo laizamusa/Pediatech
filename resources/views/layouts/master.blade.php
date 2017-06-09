@@ -24,7 +24,7 @@
 
     {{--@include('components.nav')--}}
     @yield('content')
-    @include('components.footer')
+
 
     {{--<script src="{{ asset('js/jquery-3.2.1.min.js') }}"></script>--}}
     {{--<script src="{{ asset('js/jquery-ui.js') }}"></script>--}}

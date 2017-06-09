@@ -167,10 +167,11 @@ a {
 }
 
 .footer {
-    background-color: #0aa7df;
+    background-color: rgba(13, 168, 223, 0.5);
     padding: 32px 0 40px;
     color: #fff;
     height: auto;
+    width: 100%;
 }
 
 .footer .copyright-text {

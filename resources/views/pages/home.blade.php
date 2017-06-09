@@ -14,7 +14,7 @@
                         <div class="row banner_content">
                             <font class="AvantGarde-Md-BT homepage_banner_content1">PEDIATECH<sup style="font-size: 17px; top: -3.5em;">TM</sup></font>
                             <font class="AvantGarde-Md-BT homepage_banner_content2"><b>INNOVATIVE SOLUTIONS IN CHILDCARE</b></font>
-                            <font class="Avenir-Light homepage_banner_content3">PediaTech aims to make pediatric medicines better</font>
+                            <font class="Avenir-Light homepage_banner_content3">PediaTech aims to make pediatric medicines better.</font>
                             <button type="button" class="btn btn-primary btn-lg lmorebtn">LEARN MORE</button>
                             {{--<font style="font-size: 111px; margin-left: -145px; color:#00a3de; font-family: AvantGarde Md BT;"><b>PEDIATECH<sup>TM</sup></b></font>--}}
                             {{--<label style="margin-top: 125px; margin-left: -634px; color:#ed3337;">INNOVATIVE SOLUTIONS IN CHILDCARE</label>--}}
@@ -53,9 +53,13 @@
                 </div>
             </div>
         </div>
+
             <div class="section" id="section2">
                 <div class="intro">
-                    <div class="row" >
+                    <div class="row">
+                        <h1 class="slider_title">THE LATEST ON MEDICINE TECHNOLOGY</h1>
+                    </div>
+                    <div class="row" style="background: url('/img/bg_footer1.png');">
                         <div class="col-md content hidden-md-up">
                             <label style="color:#8d8b8b; font-size: 20px; margin-top: 10px;"><b>EZTab</b></label>
                             <img class="carousel-image" src="/img/eztab.png">
@@ -78,7 +82,7 @@
                             <div class="card">
                                 <img class="carousel-image" src="/img/eztab.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image" src="/img/eztab-logo.png" alt="">
+                                    <img class="carousel-image carousel-logo" src="/img/eztab-logo.png" alt="">
                                 </h4>
                                 <p class="carousel-p">
                                     Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.
@@ -88,7 +92,7 @@
                             <div class="card">
                                 <img class="carousel-image" src="/img/suredose.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image" src="/img/suredose-logo.png" alt="">
+                                    <img class="carousel-image carousel-logo" src="/img/suredose-logo.png" alt="">
                                 </h4>
                                 <p class="carousel-p">
                                     Most of the drugs in ready-to-use oral pharmaceutical suspensions exist as undissolved particles, requiring adequate shaking of the container to resuspend the drug uniformly before dosing.
@@ -98,7 +102,7 @@
                             <div class="card">
                                 <img class="carousel-image" src="/img/zincplus.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image" src="/img/zinc-plus-logo.png" alt="">
+                                    <img class="carousel-image carousel-logo" src="/img/zinc-plus-logo.png" alt="">
                                 </h4>
                                 <p class="carousel-p">
                                     Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.
@@ -108,7 +112,7 @@
                             <div class="card">
                                 <img class="carousel-image" src="/img/tasterite-kid.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image" src="/img/tasterite-logo.png" alt="">
+                                    <img class="carousel-image carousel-logo" src="/img/tasterite-logo.png" alt="">
                                 </h4>
                                 <p class="carousel-p">
                                     The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.
@@ -116,6 +120,8 @@
                                 <div class="slide-indicator"></div>
                             </div>
                         </div>
+                        @include('components.footer')
+
                     </div>
                  </div>
             </div>
@@ -134,8 +140,9 @@
                 yPos: 42,
                 yRadius: 48,
                 itemClass: "card",
-                autoPlay: true,
+                autoPlay: false,
                 bringToFront: true,
+                xRadius: 400,
                 onLoaded: function() {
                     showcase.css( 'visibility', 'visible' )
                     showcase.css( 'display', 'none' )

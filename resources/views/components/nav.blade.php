@@ -45,7 +45,7 @@
         <div class="collapse navbar-collapse row" id="navbarSupportedContent">
             <ul class="navbar-nav col-4">
                 </ul>
-            <ul class="nav navbar-nav navbar-nav col-lg-8 col-md-12 text-center">
+            <ul class="nav navbar-nav col-lg-8 col-md-12 text-center">
                 <li class="nav-item active col-lg-3 col-md-12">
                     <a class="nav-link" href="{{ url('/about') }}">About Us</a>
                 </li>
@@ -59,10 +59,10 @@
                         <li class="nav2"><a class="nav-link" href="{{ url('/tech/#zincplus') }}">ZincPlus</a></li>
                     </ul>
                 </li>
-                <li class="nav-item col-lg-3 col-md-12">
+                <li class="nav-item col-lg-4 col-md-12">
                     <a class="nav-link" href="{{ url('/org') }}">Our Organization</a>
                 </li>
-                <li class="nav-item col-lg-3 col-md-12">
+                <li class="nav-item col-lg-2 col-md-12">
                     <a class="nav-link" href="{{ url('/contact') }}">Contact</a>
                 </li>
             </ul>
