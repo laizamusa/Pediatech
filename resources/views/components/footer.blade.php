@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-4 copyright-text">
                     <div class="col-xs-12 col-sm-4 text-center">
-                        <a href="#" rel="nofollow"><img src="img/logo-pedia1.png" alt=""></a>
+                        <a href="#" rel="nofollow"><img src="{{ asset('img/logo-pedia1.png') }}" alt=""></a>
                     </div>
                 </div>
 
@@ -19,7 +19,7 @@
                         <ul class="social-media list-inline text-center">
                             <li>
                                 <a target="_blank" href="https://www.youtube.com/channel/UCzymdT1e3c8QCmtpjx3DfOg" rel="nofollow">
-                                    <img src="img/youtube1.png" alt="">
+                                    <img src="{{ asset('img/youtube1.png') }}" alt="">
                                 </a>
                             </li>
                         </ul>
