@@ -9,6 +9,13 @@
         width: 1346px;
         margin-left: 412px;
     }
+
+    .base_bg{
+        position: absolute;
+        margin-left: 16px;
+        height: 85%;
+    }
+
     .banner_logo{
         margin-left: 587px;
         margin-top: 126px;
@@ -23,7 +30,8 @@
     }
 
     .banner_content{
-        margin-left: 183px;
+        /*margin-left: 183px;*/
+        margin-left: 261px;
         margin-top: 210px;
     }
     .homepage_banner_content1{
@@ -51,10 +59,14 @@
     }
 
     .banner_img{
-        width: 121%;
+        /*width: 121%;*/
         /*margin-left: -39%;*/
-        margin-left: 0;
-        margin-top: auto;
+        /*margin-left: 0;*/
+        /*margin-top: auto;*/
+        width: 121%;
+        /* margin-left: -39%; */
+        margin-left: -106px;
+    }
     }
 
     .banner1_content{
@@ -83,18 +95,19 @@
     }
 
 
-    .bdb {
-        border-bottom: 1px solid #acacac;
-        width: 100%;
-    }
+    /*.bdb {*/
+        /*border-bottom: 1px solid #acacac;*/
+        /*width: 100%;*/
+    /*}*/
 
     .lmorebtn{
-        background-color: white;
+        background-color: transparent;
         color: #00a3de;
         border-color: #00a3de;
         margin-left: -422px;
         /*margin-left: -284px;*/
-        margin-top: 156px;
+        /*margin-top: 156px;*/
+        margin-top: 86px;
     }
 
     #msend{
@@ -269,4 +282,3 @@
         margin-left: -53px;
     }
     /*contacts*/
-}

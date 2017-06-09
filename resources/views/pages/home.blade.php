@@ -8,6 +8,8 @@
             <div class="intro">
                 <div class="row">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
+                    <img class="img-responsive base_bg" src="/img/base1.png">
+                    <img class="img-responsive base_bg" src="/img/Overlay.png">
                     <div class="col-md-6">
                         <div class="row banner_content">
                             <font class="AvantGarde-Md-BT homepage_banner_content1">PEDIATECH<sup style="font-size: 17px; top: -3.5em;">TM</sup></font>
