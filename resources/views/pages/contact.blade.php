@@ -65,11 +65,11 @@
                                 <span class="your-message">
                                     <textarea name="your-message" class="form-control form-textarea" placeholder="Your Message"></textarea>
                                 </span>
-                                <label style="margin-left: 5px; margin-top: 30px; margin-left: 51px; color: #585858;">Please type in the code:</label><br>
+                                <label style="margin-left: 5px; margin-top: 30px; margin-left: 73px; color: #585858;">Please type in the code:</label><br>
                                 <input name="your-captcha" value="3594274354" type="hidden">
                                 <div class="row" style="margin-left: 5px;">
                                     <div class="col-md-6">
-                                        <img style="width: 174px; height: 50px; margin-left: 33px;" class="img-responsive form-control" alt="captcha" src="http://beta.pediatech.info/wp-content/uploads/wpcf7_captcha/3594274354.png">
+                                        <img style="width: 174px; height: 50px; margin-left: 54px;" class="img-responsive form-control" alt="captcha" src="http://beta.pediatech.info/wp-content/uploads/wpcf7_captcha/3594274354.png">
                                     </div>
                                     <div class="col-md-6">
                                     <span class="your-captcha">
@@ -80,12 +80,12 @@
                             </div>
                             <button id="mSend" type="button" class="btn btn-primary btn-lg lmorebtn">Send Your Message</button>
                         </div>
-
                     </form>
+
                 </div>
-                <p></p>
+                @include('components.footer')
             </div>
-            </div>
+        </div>
         @endsection
     </div>
 

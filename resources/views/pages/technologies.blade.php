@@ -187,6 +187,8 @@
             </p>
         </div>
 
+        <hr class="hr">
+
         <div class="row" id="suredose">
             {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
             <div class="col-md-12 eztab-content text-center">
@@ -213,6 +215,8 @@
                 </p>
             </div>
         </div>
+
+        <hr class="hr">
 
         <div class="row" id="tasterite">
             {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
@@ -252,10 +256,11 @@
                     • Growee TasteRite
                 </p>
             </div>
-
-            <p class="taste2">
-            </p>
+            {{--<p class="taste2">--}}
+            {{--</p>--}}
         </div>
+
+        <hr class="hr">
 
         <div class="row" id="toothfriendly">
             {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
@@ -279,6 +284,8 @@
                     • Paracetamol TF</p>
             </div>
         </div>
+
+        <hr class="hr">
 
         <div class="row" id="zincplus">
             {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
@@ -328,7 +335,7 @@
                 • Ceelin Plus chewables</p>
         </div>
 
-
+        @include('components.footer')
     </div>
     {{--</div>--}}
     {{--</div>--}}

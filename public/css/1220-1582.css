@@ -11,6 +11,14 @@
         margin-top: -7px;
     }
 
+    .hr{
+        margin-top: 7rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 2px solid rgba(0, 0, 0, 0.1);
+        width: 79%;
+    }
+
     .col-lg-4{
         max-width: 25.333333%;
     }
@@ -149,11 +157,12 @@
     }
 
     #msend{
-        margin-top: 35px;
+        margin-top: -49px;
         /*margin-left: 60px;*/
-        margin-left: 14px;
-        height: 77px;
-        width: 500px;
+        /*margin-left: 14px;*/
+        margin-left: 109px;
+        height: 50px;
+        width: 390px;
     }
 
     /*start about us*/
@@ -308,15 +317,29 @@
         padding: 0 100px;
     }
 
+    .form-inputs {
+        margin-top: 20px;
+        height: 50px;
+        width: 390px;
+        margin-left: 95px;
+    }
+
+    .form-div{
+        margin-top: 79px;
+        /*margin-left: 71px;*/
+    }
+
     .form-textarea{
         height:188px;
-        width: 500px;
-        margin-left: 51px;
+        width: 435px;
+        /*margin-left: 51px;*/
+        margin-left: 70px;
+        margin-top: 66px;
     }
 
     .captchar{
         width: 128px;
         height: 50px;
-        margin-left: -53px;
+        margin-left: -15px;
     }
     /*contacts*/
