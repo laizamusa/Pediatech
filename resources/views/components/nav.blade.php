@@ -20,9 +20,9 @@
                     <ul class="dropdown-menu text-center" data-hover="dropdown" >
                         <li class="nav2" data-menuanchor="firstPage"><a class="nav-link {{ request()->fullUrl() == Request::root().'/technologies/eztab' ? 'activeMenus' : '' }}" href="/tech/technologies/eztab">EZTab</a></li>
                         <li class="nav2" data-menuanchor="secondPage"><a class="nav-link {{ request()->is('suredose') ? 'activeMenus' : '' }}" href="/tech/technologies/suredose">SureDose</a></li>
-                        <li class="nav2" data-menuanchor="3rdPage"><a class="nav-link {{ request()->is('tasterite') ? 'activeMenus' : '' }}" href="/tech#tasterite">TasteRite</a></li>
-                        <li class="nav2" data-menuanchor="4thpage"><a class="nav-link {{ request()->is('toothfriendly') ? 'activeMenus' : '' }}" href="/tech#toothfriendly">ToothFriendly</a></li>
-                        <li class="nav2" data-menuanchor="lastPage"><a class="nav-link {{ request()->is('zincplus') ? 'activeMenus' : '' }}" href="/tech#zincplus">ZincPlus</a></li>
+                        <li class="nav2" data-menuanchor="3rdPage"><a class="nav-link {{ request()->is('tasterite') ? 'activeMenus' : '' }}" href="/tech/technologies/tasterite">TasteRite</a></li>
+                        <li class="nav2" data-menuanchor="4thpage"><a class="nav-link {{ request()->is('toothfriendly') ? 'activeMenus' : '' }}" href="/tech/technologies/toothfriendly">ToothFriendly</a></li>
+                        <li class="nav2" data-menuanchor="lastPage"><a class="nav-link {{ request()->is('zincplus') ? 'activeMenus' : '' }}" href="/tech/technologies/zincplus">ZincPlus</a></li>
                     </ul>
                 </li>
                 <li class="nav-item col-lg-4 col-md-12">

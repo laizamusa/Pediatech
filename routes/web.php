@@ -40,5 +40,9 @@ Route::get('/tech/technologies/suredose', function (){
     return view('technologies/suredose');
 });
 
+Route::get('/tech/technologies/tasterite', function (){
+    return view('technologies/tasterite');
+});
+
 
 Route::post('/mailsender', 'MailController@mailer');
