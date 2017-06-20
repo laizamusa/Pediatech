@@ -32,4 +32,9 @@ Route::get('/contact', function (){
     return view('pages.contact');
 });
 
+Route::get('/tech/technologies/eztab', function (){
+    return view('technologies/eztab');
+});
+
+
 Route::post('/mailsender', 'MailController@mailer');

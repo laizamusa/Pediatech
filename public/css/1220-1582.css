@@ -13,6 +13,10 @@
         margin-top: -7px;
     }
 
+    .fp{
+        width: 105%;
+    }
+
     .hr{
         margin-top: 7rem;
         margin-bottom: 1rem;
@@ -162,12 +166,18 @@
     }
 
     #msend{
-        margin-top: -49px;
+        margin-top: -48px;
+        /*margin-top: 43px;*/
         /*margin-left: 60px;*/
         /*margin-left: 14px;*/
         margin-left: 109px;
         height: 50px;
         width: 390px;
+    }
+
+    .g-recaptcha{
+        padding: 0 47px;
+        padding-top: 31px;
     }
 
     /*start about us*/

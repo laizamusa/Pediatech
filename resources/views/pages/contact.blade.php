@@ -65,16 +65,19 @@
                                 <span class="your-message">
                                     <textarea name="your-message" class="form-control form-textarea" placeholder="Your Message"></textarea>
                                 </span>
-                                <label style="margin-left: 5px; margin-top: 30px; margin-left: 73px; color: #585858;">Please type in the code:</label><br>
-                                <input name="your-captcha" value="3594274354" type="hidden">
-                                <div class="row" style="margin-left: 5px;">
+                                {{--<label style="margin-left: 5px; margin-top: 30px; margin-left: 73px; color: #585858;">Please type in the code:</label><br>--}}
+                                {{--<input name="your-captcha" value="3594274354" type="hidden">--}}
+                                <div class="row" style="margin-left: 10px;">
                                     <div class="col-md-6">
-                                        <img style="width: 174px; height: 50px; margin-left: 54px;" class="img-responsive form-control" alt="captcha" src="http://beta.pediatech.info/wp-content/uploads/wpcf7_captcha/3594274354.png">
+                                        {{--<img style="width: 174px; height: 50px; margin-left: 54px;" class="img-responsive form-control" alt="captcha" src="http://beta.pediatech.info/wp-content/uploads/wpcf7_captcha/3594274354.png">--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-md-6">--}}
+                                    {{--<span class="your-captcha">--}}
+                                        {{--<input name="your-captcha"class="form-control captchar form-control" type="text">--}}
+                                    {{--</span>--}}
+                                    <div class="g-recaptcha" data-sitekey="6LdpyyQUAAAAABSq1b5F3GZ6me0F9iQF7UA78nGJ">
+
                                     </div>
-                                    <div class="col-md-6">
-                                    <span class="your-captcha">
-                                        <input name="your-captcha"class="form-control captchar form-control" type="text">
-                                    </span>
                                     </div>
                                 </div>
                             </div>

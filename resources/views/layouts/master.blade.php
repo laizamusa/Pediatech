@@ -33,9 +33,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
     <script type="text/javascript" src="{{ asset('fullpage/vendors/scrolloverflow.js') }}"></script>
     <script type="text/javascript" src="{{ asset('fullpage/js/jquery.fullPage.js') }}"></script>
-
-
-
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
     <script type="text/javascript">
         $(document).ready(function() {
@@ -44,6 +42,8 @@
             });
             $.fn.fullpage.setAutoScrolling(false);
             $.fn.fullpage.setFitToSection(false);
+
+            $.fn.fullpage.setScrollingSpeed(7000);
         });
 
         $('ul.nav li.dropdown').hover(function() {

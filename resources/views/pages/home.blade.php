@@ -15,7 +15,7 @@
                             <font class="AvantGarde-Md-BT homepage_banner_content1">PEDIATECH<sup style="font-size: 17px; top: -3.5em;">TM</sup></font>
                             <font class="AvantGarde-Md-BT homepage_banner_content2"><b>INNOVATIVE SOLUTIONS IN CHILDCARE</b></font>
                             <font class="Avenir-Light homepage_banner_content3">PediaTech aims to make pediatric medicines better.</font>
-                            <button type="button" class="btn btn-primary btn-lg lmorebtn">LEARN MORE</button>
+                            <a type="button" class="btn btn-primary btn-lg lmorebtn" href="/about">LEARN MORE</a>
                             {{--<font style="font-size: 111px; margin-left: -145px; color:#00a3de; font-family: AvantGarde Md BT;"><b>PEDIATECH<sup>TM</sup></b></font>--}}
                             {{--<label style="margin-top: 125px; margin-left: -634px; color:#ed3337;">INNOVATIVE SOLUTIONS IN CHILDCARE</label>--}}
                             {{--<p style="color:#696969; margin-left: -287px; margin-top: 158px;">PediaTech aims to make pediatric medicines better</p>--}}
