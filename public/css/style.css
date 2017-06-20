@@ -206,9 +206,10 @@ h3 {
 
 /*Start Technologies*/
 .eztab-title-content1{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
+
 }
 
 .eztabvid{
@@ -217,37 +218,39 @@ h3 {
 }
 
 .suredosesus{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
 }
 
 .suredosesus1{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
 }
 
 .suredosetech{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
 }
 
 .suredosetech1{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
+    padding: 0 154px;
 }
 
 .suredosetech_img{
     height: 561px;
-    /*margin-left: 30%;*/
+    margin-left: 20%;
+    margin-top: -40px;
 }
 
 .suredosetech2{
     margin-left: 583px;
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
 }

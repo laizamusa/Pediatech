@@ -20,7 +20,7 @@
             <div class="iframe embed-responsive embed-responsive-16by9 eztabvid">
                 <iframe src="https://www.youtube.com/embed/LEx45L0un8g" frameborder="0" allowfullscreen></iframe></div>
         </div>
-        <p style="text-align: center; color:#696969; font-size: 18px;">EZTab in the Real World</br>
+        <p style="text-align: center; color:#696969; font-size: 18px;"><b>EZTab in the Real World</b></br>
             Products using the EZTab Technology</br>
             • Kastair EZTab (Motelukast)
         </p>

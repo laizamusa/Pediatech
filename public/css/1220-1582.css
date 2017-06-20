@@ -201,29 +201,33 @@
     }
 
     .eztech {
-        text-align: center;
+        /*text-align: center;*/
         color:#696969;
         font-size: 18px;
-        padding: 0 250px;
+        padding: 0 154px;
+        text-indent: 50px;
     }
 
     .eztablogo {
         /*margin-left: 41%;*/
         height: 50px;
         margin-top: 80px;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     .eztab-title-content {
+        padding: 0 154px;
         color: #696969;
         font-size: 18px;
         font-family: 'AvantGarde Md BT';
-        text-align: center;
+        margin-top: 30px;
+        /*text-align: center;*/
         /* margin-top: -56px; */
     }
 
     .eztab-title-content1{
-        padding: 0 250px;
+        padding: 0 154px;
+        text-indent: 50px;
     }
 
     .suredose-logo{
@@ -234,15 +238,35 @@
     }
 
     .suredosesus{
-        padding: 0 250px;
+        padding: 0 154px;
+        text-indent: 50px;
     }
 
     .suredosesus1{
-        padding: 0 250px;
+        padding: 0 154px;
+        /*text-indent: 50px;*/
     }
 
     .suredosetech{
-        padding: 0 250px;
+        padding: 0 154px;
+        text-indent: 50px;
+    }
+
+    .img-title{
+        margin-top: 50px;
+        text-align: center;
+        color: #696969;
+        font-size: 18px;
+        font-family: 'AvantGarde Md BT';
+    }
+
+    .img-bottom-tittle{
+        text-align: center;
+        font-size: 18px;
+        font-family: 'AvantGarde Md BT';
+        color: #696969;
+        /*margin-left: 353px;*/
+
     }
 
     .tasterite-logo{
