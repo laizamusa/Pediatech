@@ -44,5 +44,9 @@ Route::get('/tech/technologies/tasterite', function (){
     return view('technologies/tasterite');
 });
 
+Route::get('/tech/technologies/toothfriendly', function (){
+    return view('technologies/toothfriendly');
+});
+
 
 Route::post('/mailsender', 'MailController@mailer');
