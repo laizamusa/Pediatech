@@ -48,5 +48,9 @@ Route::get('/tech/technologies/toothfriendly', function (){
     return view('technologies/toothfriendly');
 });
 
+Route::get('/tech/technologies/zincplus', function (){
+    return view('technologies/zincplus');
+});
+
 
 Route::post('/mailsender', 'MailController@mailer');

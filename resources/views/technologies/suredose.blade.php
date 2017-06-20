@@ -31,6 +31,7 @@
         </div>
 
     </div>
+    @include('components.footer')
 </div>
 
 @endsection

@@ -26,4 +26,5 @@
         </p>
     </div>
 
+    @include('components.footer')
 @endsection

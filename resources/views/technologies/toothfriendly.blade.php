@@ -25,6 +25,7 @@
                 • Paracetamol TF</p>
         </div>
     </div>
+    @include('components.footer')
 </div>
 
     @endsection
