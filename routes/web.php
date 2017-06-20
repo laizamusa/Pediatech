@@ -36,5 +36,9 @@ Route::get('/tech/technologies/eztab', function (){
     return view('technologies/eztab');
 });
 
+Route::get('/tech/technologies/suredose', function (){
+    return view('technologies/suredose');
+});
+
 
 Route::post('/mailsender', 'MailController@mailer');
