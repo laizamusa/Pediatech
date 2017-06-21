@@ -277,26 +277,64 @@
     }
 
     .tasterite_problem{
-        padding: 0 250px;
+        /*padding: 0 250px;*/
+        padding: 0 154px;
     }
 
     .tasterite_problem1{
-        padding: 0 250px;
+        padding: 0 154px;
     }
 
     .tasterite_tech{
-        padding: 0 250px;
+        padding: 0 154px;
     }
+
+    .testetech{
+        color:#696969;
+        font-size: 18px;
+        padding: 0 154px;
+    }
+
+.testetech1{
+    color:#696969;
+    font-size: 18px;
+    padding: 0 154px;
+    margin-left: 20%;
+}
+
+.testetech2{
+    color:#696969;
+    font-size: 18px;
+    padding: 0 154px;
+    margin-left: 25%;
+}
 
     .tftech-logo{
         /*margin-left: 39%;*/
         height: 50px;
         margin-top: 80px;
         margin-bottom: 50px;
+        text-indent: 50px;
     }
 
     .tftech_content1{
-        padding: 0 250px;
+        padding: 0 154px;
+        text-indent: 50px;
+    }
+
+    .tftechrworld{
+        color:#696969;
+        font-size: 18px;
+        padding: 0 154px;
+        margin-left: 4%;
+    }
+
+    .tftexhtittle{
+        /*text-align: center;*/
+        color: #696969;
+        font-size: 18px;
+        font-family: 'AvantGarde Md BT';
+        padding: 0 154px;
     }
 
     .zinc-plus-logo{
@@ -312,7 +350,7 @@
 
     .taste_img{
         height: 561px;
-        /*margin-left: 21%;*/
+        margin-left: 21%;
     }
 
     .zincplus_content1{

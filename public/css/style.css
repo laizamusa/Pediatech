@@ -256,34 +256,41 @@ h3 {
 }
 
 .tasterite_problem{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
+    text-indent: 50px;
 }
 
 .tasterite_problem1{
-    text-align: center;
+    /*text-align: center;*/
+    text-indent: 50px;
     color:#696969;
     font-size: 18px;
 }
 
 .tasterite_tech{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
+    text-indent: 50px;
     font-size: 18px;
 }
 
+
+
 .taste2{
+    text-indent: 50px;
     margin-left: 474px;
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
 }
 
 .tftech_content1{
-    text-align: center;
+    /*text-align: center;*/
     color:#696969;
     font-size: 18px;
+    text-indent: 50px;
 }
 
 .zincplus_vid{

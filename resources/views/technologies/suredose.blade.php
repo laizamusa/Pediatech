@@ -17,12 +17,16 @@
         <div class="col-md-12 eztab-content">
             <h1 class="eztab-title-content"><b>SureDose Technology</b></h1>
             <p class="suredosetech pd100">SureDose patented technology is the world’s only no-shake liquid suspension format that ensures no settling, no packing, and no caking of drug particles in suspension. SureDose combines 3 elements to achieve a stable suspension with excellent drug uniformity – liquid of the right density, polymer with an increased yield value, and micronized drug.
-                SureDose ensures that each dose of medicine is correct and complete every time.</p>
-            <p class="suredosetech1">US patent: 7,300,670 B2</br>
-                Philippines patent: 1-2002-080820</p>
-                <h1 class="eztab-title-content">SureDose in the Real World</h1>
+                SureDose ensures that each dose of medicine is correct and complete every time.(US patent: 7,300,670 B2;
+                Philippines patent: 1-2002-080820)</p>
+                <h1 class="eztab-title-content"><b>SureDose in the Real World</b></h1>
                 <h1 class="img-title">Drug uniformity analysis after centrifugation of 2 hours at 500 g’s</h1>
                 <img class="suredosetech_img" src="/img/tech/suredose.png">
+            <div>
+                <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 25%;">
+                    <iframe src="https://www.youtube.com/embed/6OvQVVfOHCA" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
                 <p class="img-bottom-tittle">Products using the SureDose Technology</br>
                 • Rimaped (Rifampicin) Suspension</p>
         </div>

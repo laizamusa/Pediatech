@@ -44,8 +44,8 @@
         </div>
 
         <p class="col-md-12 eztab-title-content1 pd100">
-            ZincPlus in the Real World</br>
-            Products using the ZincPlus Technology</br>
+            <h1 class="eztab-title-content"><b>ZincPlus in the Real World</b></h1>
+            <p class="tftechrworld">Products using the ZincPlus Technology</br>
             • Immunped syrup</br>
             • Ceelin Plus syrup and drops</br>
             • Ceelin Plus chewables</p>

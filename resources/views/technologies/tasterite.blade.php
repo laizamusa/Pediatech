@@ -16,30 +16,30 @@
         <div class="col-md-12 eztab-content">
             <h1 class="eztab-title-content"><b>TasteRite Technology</b></h1>
             <p class="tasterite_tech">TasteRite is the world’s only non-flavor based pediatric taste-masking patented technology. It is a unique taste-masking system that can be applied to various liquid medicine formats in order to significantly reduce the bitterness of medicine. Thus, making the lives of children and parents easier.</p>
-            <p class="tasterite_tech">TasteRite utilizes a polymer system that prevents the interaction of the bad-tasting drug particles and the taste receptors on the tongue, resulting in a better tasting liquid medicine. This polymer system rapidly releases the drug in </br>the stomach, allowing the drug to rapidly dissolve for easy absorption.<p>
-            <p class="tasterite_tech">US patent: US 7,107,572 B2</br>
-                TasteRite in the Real World</p>
+            <p class="tasterite_tech">TasteRite utilizes a polymer system that prevents the interaction of the bad-tasting drug particles and the taste receptors on the tongue, resulting in a better tasting liquid medicine. This polymer system rapidly releases the drug in </br>the stomach, allowing the drug to rapidly dissolve for easy absorption (US patent: US 7,107,572 B2).</p>
+            <h1 class="eztab-title-content"><b>TasteRite in the Real World</b></h1>
         </div>
         <div class="col-md-12 eztab-content">
-            <h1 class="eztab-title-content"><b>Taste Taste</b></h1>
+            <h1 class="eztab-title-content"><b>Taste Test</b></h1>
             <p class="tasterite_tech">We conducted several taste tests to show the superiority of medications that use TasteRite technologoy. In these trials, paracetamol was the active ingredient and subjects were asked to taste and compare TasteRite paracetamol and regular paracetamol.</p>
-            <p class="tasterite_tech">• 95% of children liked the taste of TasteRite paracetamol
-                • 93% of parents will use TasteRite paracetamol again
-                • 87% of parents did not force their child to take the succeeding doses of TasteRite paracetamol
-                Taste tests were also conducted on parents and pediatricians, and the results are as follows:
+            <p class="tasterite_tech">• 95% of children liked the taste of TasteRite paracetamol</p>
+            <p class="tasterite_tech">• 93% of parents will use TasteRite paracetamol again</p>
+            <p class="tasterite_tech">• 87% of parents did not force their child to take the succeeding doses of TasteRite paracetamol</p>
+                <h1 class="tftexhtittle">Taste tests were also conducted on parents and pediatricians, and the results are as follows:</h1>
                 <img class="taste_img" src="/img/tech/taste-rite.png">
-                <img class="taste_img" src="/img/tech/taste-rite2.png"><br>
+                <img class="taste_img" src="/img/tech/taste-rite2.png">
 
-                Products using the TasteRite Technology</br>
-                • Biogesic (Paracetamol) TasteRite</br>
-                • Solmux (Carbocisteine) TasteRite</br>
-                • Dolan (Ibuprofen) TasteRite</br>
-                • Asmalin (Salbutamol) TasteRite</br>
-                • Allerkid (Cetirizine) TasteRite</br>
-                • Alnix Plus (Cetrizine + Phenylephrine) TasteRite</br>
-                • Nutrilin TasteRite</br>
-                • Growee TasteRite
-            </p>
+                <h1 class="testetech1">Products using the TasteRite Technology</h1>
+                <p class="testetech2">
+                    • Biogesic (Paracetamol) TasteRite</br>
+                    • Solmux (Carbocisteine) TasteRite</br>
+                    • Dolan (Ibuprofen) TasteRite</br>
+                    • Asmalin (Salbutamol) TasteRite</br>
+                    • Allerkid (Cetirizine) TasteRite</br>
+                    • Alnix Plus (Cetrizine + Phenylephrine) TasteRite</br>
+                    • Nutrilin TasteRite</br>
+                    • Growee TasteRite
+                </p>
         </div>
 
     </div>

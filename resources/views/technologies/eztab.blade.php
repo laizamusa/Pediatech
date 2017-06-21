@@ -17,8 +17,9 @@
                 <h1 class="eztab-title-content"><b>EZTab Technology</b></h1>
                 <p class="eztech pd100" style="">EZTab technology makes medicines easy for young children to take away from home. EZTab technology powers tablets that readily disperse in a child’s mouth without the need for water in just a few seconds. The quick dissolving tablets provide immediate release of the active ingredients for absorption. No mess and no risk of choking with EZTab. Easy and safe anywhere.</p>
             </div>
+            {{--<iframe width="560" height="315" src="https://www.youtube.com/embed/rya4FVh_G9o" frameborder="0" allowfullscreen></iframe>--}}
             <div class="iframe embed-responsive embed-responsive-16by9 eztabvid">
-                <iframe src="https://www.youtube.com/embed/LEx45L0un8g" frameborder="0" allowfullscreen></iframe></div>
+                <iframe src="https://www.youtube.com/embed/rya4FVh_G9o" frameborder="0" allowfullscreen></iframe></div>
         </div>
         <p style="text-align: center; color:#696969; font-size: 18px;"><b>EZTab in the Real World</b></br>
             Products using the EZTab Technology</br>
