@@ -15,7 +15,7 @@
             <p class="tftech_content1 pd100">dual immune defenses of vitamin C and zinc, watch the video below.</p>
         </div>
         <div class="iframe embed-responsive embed-responsive-16by9 zincplus_vid">
-            <iframe src="https://www.youtube.com/embed/vIGDNWaY5Ec" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+            <iframe src="https://www.youtube.com/embed/xGQhhBLYS64" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <p class="eztab-title-content1 pd100">The Problem with Combining Vitamin C and Zinc
             There are a lot of challenges in combining vitamin C and zinc in pediatric liquid medications such as syrup and drops. Stability of the formulation is the biggest issue. Vitamin C degrades rapidly in the presence of divalent metal ions such as zinc. In one experiment, zinc doubled the rate of vitamin C degradation (Fig. 1). Further, zinc also gives the liquid medication an astringent, metallic and unpleasant taste.</p>
@@ -38,14 +38,14 @@
         </div>
 
         <div>
-            <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 25%;">
+            <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 26%;">
                 <iframe src="https://www.youtube.com/embed/LEx45L0un8g" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
 
         <p class="col-md-12 eztab-title-content1 pd100">
-            <h1 class="eztab-title-content"><b>ZincPlus in the Real World</b></h1>
-            <p class="tftechrworld">Products using the ZincPlus Technology</br>
+            <h1 class="tftechrworld"><b>ZincPlus in the Real World</b></h1>
+            <p class="tftechrworld1">Products using the ZincPlus Technology</br>
             • Immunped syrup</br>
             • Ceelin Plus syrup and drops</br>
             • Ceelin Plus chewables</p>
