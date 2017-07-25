@@ -58,7 +58,7 @@ body{
 }
 
 .banner1_content{
-    font-family: AvantGarde Md BT;
+    font-family: 'AvantGarde-Md-BT';
     color: #00a3de;
     font-size: 2.5rem;
     margin-left: 99px;
@@ -142,21 +142,23 @@ a {
 
 .pediatech_content1{
     font-size: 80px;
-    font-family: AvantGarde Md BT;
+    font-family: 'AvantGarde-Md-BT';
 }
 
 .pediatech_content2{
     font-size: 18px;
+    color: #525151;
 }
 
 .products_content1{
     font-size: 80px;
-    font-family: AvantGarde Md BT;
+    font-family: 'AvantGarde-Md-BT';
 }
 
 .products_content2{
     font-size: 18px;
     margin-top: -179px;
+    padding: 0 9px;
 }
 /*end about us*/
 

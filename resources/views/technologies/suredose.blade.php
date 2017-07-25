@@ -23,7 +23,7 @@
                 <h1 class="img-title">Drug uniformity analysis after centrifugation of 2 hours at 500 g’s</h1>
                 <img class="suredosetech_img" src="/img/tech/suredose.png">
             <div>
-                <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 25%;">
+                <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 26%;">
                     <iframe src="https://www.youtube.com/embed/6OvQVVfOHCA" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>

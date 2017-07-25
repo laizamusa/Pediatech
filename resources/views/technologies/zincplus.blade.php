@@ -22,7 +22,7 @@
         <p class="eztab-title-content1 pd100">
             Fig. 1. Assay of Vitamin C with and without Zinc in a liquid format <br>
         </p>
-        <img id="zincplus2_img" class="fig1" src="/img/tech/zinc-plus.png">
+        <img id="zincplus2_img" class="fig1" src="/img/tech/zinc-plus-2p3.png">
 
         <div id="zincplus_tech" class="zincplus_tech" style="">
             <h1 class="eztab-title-content"><b>ZincPlus Technology</b></h1>
@@ -30,7 +30,7 @@
             <p class="eztab-title-content1 pd100">
                 Fig. 2. Assay of Vitamin C
             </p>
-            <img class="zincplus1_img" id="zincplus_img" src="/img/tech/zinc-plus2.png">
+            <img class="zincplus1_img" id="zincplus_img" src="/img/tech/zinc-plus-2p2.png">
             <p class="eztab-title-content1 pd100">
                 Fig. 3 Astringency Test
             </p>
@@ -38,7 +38,7 @@
         </div>
 
         <div>
-            <div class="iframe embed-responsive embed-responsive-16by9" style="width: 50%; margin-left: 26%;">
+            <div class="iframe embed-responsive embed-responsive-16by9" style="width: 51%; margin-left: 26%;">
                 <iframe src="https://www.youtube.com/embed/LEx45L0un8g" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>

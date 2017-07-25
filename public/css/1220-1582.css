@@ -48,7 +48,10 @@
 
     .base_bg{
         position: absolute;
-        margin-left: 16px;
+        /*margin-left: 16px;*/
+        /*margin-left: 218px;*/
+        /*height: 85%;*/
+        margin-left: 6px;
         height: 85%;
     }
 
@@ -76,7 +79,7 @@
         margin-top: 210px;
     }
     .homepage_banner_content1{
-        font-family: "AvantGarde Md BT";
+        font-family: 'AvantGarde-Md-BT';
         color: #00a3de;
         letter-spacing: 0px;
         font-size: 97px;
@@ -85,7 +88,7 @@
     }
 
     .homepage_banner_content2{
-        font-family: "AvantGarde Md BT";
+        font-family: 'AvantGarde-Md-BT';
         color: #ed3337;
         letter-spacing: 2px;
         /*margin-left: -118px;*/
@@ -107,14 +110,16 @@
         /*margin-left: -39%;*/
         /*margin-left: 0;*/
         /*margin-top: auto;*/
-        width: 121%;
+        /*width: 121%;*/
+        width: 167%;
         /* margin-left: -39%; */
         margin-left: -106px;
+        position: absolute;
     }
     }
 
     .banner1_content{
-        font-family: AvantGarde Md BT;
+        font-family: 'AvantGarde-Md-BT';
         color: #00a3de;
         font-size: 2.5rem;
         margin-left: 99px;
@@ -124,7 +129,7 @@
     }
 
     .slider_title{
-        font-family: AvantGarde Md BT;
+        font-family: 'AvantGarde-Md-BT';
         color: #00a3de;
         /*font-size: 2.5rem;*/
         /*margin-left: 99px;*/
@@ -190,7 +195,8 @@
         position: absolute;
         margin-left: 121px;
         margin-top: 100px;
-        color:#696969;
+        /*color:#696969;*/
+        color:#5f5e5e;
     }
 
     .products_content{
@@ -219,7 +225,7 @@
         padding: 0 154px;
         color: #696969;
         font-size: 18px;
-        font-family: 'AvantGarde Md BT';
+        font-family: 'AvantGarde-Md-BT';
         margin-top: 30px;
         /*text-align: center;*/
         /* margin-top: -56px; */
@@ -257,13 +263,13 @@
         text-align: center;
         color: #696969;
         font-size: 18px;
-        font-family: 'AvantGarde Md BT';
+        font-family: 'AvantGarde-Md-BT';
     }
 
     .img-bottom-tittle{
         text-align: center;
         font-size: 18px;
-        font-family: 'AvantGarde Md BT';
+        font-family: 'AvantGarde-Md-BT';
         color: #696969;
         /*margin-left: 353px;*/
 
@@ -342,7 +348,7 @@
         /*text-align: center;*/
         color: #696969;
         font-size: 18px;
-        font-family: 'AvantGarde Md BT';
+        font-family: 'AvantGarde-Md-BT';
         padding: 0 154px;
     }
 

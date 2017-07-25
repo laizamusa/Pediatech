@@ -8,8 +8,11 @@
             <div class="intro">
                 <div class="row">
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
-                    <img class="img-responsive base_bg" src="/img/base1.png">
-                    <img class="img-responsive base_bg" src="/img/Overlay.png">
+                    {{--<img class="img-responsive base_bg" src="/img/base1.png">--}}
+
+                    <img class="img-responsive base_bg" src="/img/final2.png">
+                    {{--<img class="banner_img"  src="/img/Overlay.png">--}}
+
                     <div class="col-md-6">
                         <div class="row banner_content">
                             <font class="AvantGarde-Md-BT homepage_banner_content1">PEDIATECH<sup style="font-size: 17px; top: -3.5em;">TM</sup></font>
@@ -22,7 +25,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <img class="banner_img" src="/img/packaging.png">
+
                     </div>
                 </div>
             </div>
@@ -79,22 +82,24 @@
                         </div>
 
                         <div id="showcase" class="noselect hidden-sm-down">
-                            <div class="card">
-                                <img class="carousel-image" src="/img/eztab.png">
-                                <h4 class="carousel-logos">
-                                    <img class="carousel-image carousel-logo" src="/img/eztab-logo.png" alt="">
-                                </h4>
-                                <p class="carousel-p">
-                                    Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.
-                                </p>
-                                <div class="slide-indicator"></div>
-                            </div>
+                            {{--<div class="card">--}}
+                                {{--<img class="carousel-image" src="/img/eztab.png">--}}
+                                {{--<h4 class="carousel-logos">--}}
+                                    {{--<img class="carousel-image carousel-logo" src="/img/eztab-logo.png" alt="">--}}
+                                {{--</h4>--}}
+                                {{--<p class="carousel-p">--}}
+                                    {{--Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.--}}
+                                {{--</p>--}}
+                                {{--<div class="slide-indicator"></div>--}}
+                            {{--</div>--}}
                             <div class="card">
                                 <img class="carousel-image" src="/img/suredose.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image carousel-logo" src="/img/suredose-logo.png" alt="">
+                                    <h1 style="color:#8d8b8b; font-size: 20px;">Address Children’s Needs</h1>
+                                    {{--<img class="carousel-image carousel-logo" src="/img/suredose-logo.png" alt="">--}}
                                 </h4>
                                 <p class="carousel-p">
+                                    {{--Our formulations aim to address gaps in pediatric medications to improve children’s compliance and ease of administration.--}}
                                     Most of the drugs in ready-to-use oral pharmaceutical suspensions exist as undissolved particles, requiring adequate shaking of the container to resuspend the drug uniformly before dosing.
                                 </p>
                                 <div class="slide-indicator"></div>
@@ -102,20 +107,24 @@
                             <div class="card">
                                 <img class="carousel-image" src="/img/zincplus.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image carousel-logo" src="/img/zinc-plus-logo.png" alt="">
+                                    <h1 style="color:#8d8b8b; font-size: 20px;">Improve products</h1>
+                                    {{--<img class="carousel-image carousel-logo" src="/img/zinc-plus-logo.png" alt="">--}}
                                 </h4>
                                 <p class="carousel-p">
-                                    Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.
+                                    Using various technologies that we’ve developed, our products improve on existing formulations in order to cater to children’s specific needs such as taste and simpler dosing formats.
+                                    {{--Ensures stable and good-tasting liquid compositions containing vitamin C and minerals. ZincPlus® provides an aqueous oral liquid composition that combines vitamin C with zinc, wherein the vitamin C has improved stability.--}}
                                 </p>
                                 <div class="slide-indicator"></div>
                             </div>
                             <div class="card">
                                 <img class="carousel-image" src="/img/tasterite-kid.png">
                                 <h4 class="carousel-logos">
-                                    <img class="carousel-image carousel-logo" src="/img/tasterite-logo.png" alt="">
+                                    <h1 style="color:#8d8b8b; font-size: 20px;">Easier for Everyone</h1>
+                                    {{--<img class="carousel-image carousel-logo" src="/img/tasterite-logo.png" alt="">--}}
                                 </h4>
                                 <p class="carousel-p">
-                                    The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.
+                                    Our products aim to make the lives of children, parents and healthcare providers easier.
+                                    {{--The world's leading drugs in various fields such as cancer therapy, hypertension and neurology were all derived from nature. We believe that nature has more to offer us.--}}
                                 </p>
                                 <div class="slide-indicator"></div>
                             </div>
