@@ -10,7 +10,7 @@
                     {{--<img class="img-responsive banner_bg" src="/img/packaging.png">--}}
                     {{--<img class="img-responsive base_bg" src="/img/base1.png">--}}
 
-                    <img class="img-responsive base_bg" src="/img/final2.png">
+                    <img class="img-responsive base_bg" src="/img/final3.png">
                     {{--<img class="banner_img"  src="/img/Overlay.png">--}}
 
                     <div class="col-md-6">
